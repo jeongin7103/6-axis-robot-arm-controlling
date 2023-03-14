@@ -26,6 +26,9 @@ GPIO connection (Robot-PCA9685-RPI 4)
 
 It is available to control the robot by the button in the application. 
 
+![image](https://user-images.githubusercontent.com/127823391/224925947-dd00b53f-f583-4bb0-ace4-45790f34ec93.png)
+
+
 ![image](https://user-images.githubusercontent.com/127823391/224924870-4b0a5d29-8eee-4ac0-949a-a14f33a734ae.png)
 
 ![image](https://user-images.githubusercontent.com/127823391/224924309-657f0b86-d314-4d00-a362-347ae4093b37.png)
