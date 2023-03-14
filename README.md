@@ -16,6 +16,9 @@ DA adapter (6V, 3A), Servo motor, Android OS Smartphone
 
 
 ## Schematics
+GPIO connection (Robot-PCA9685-RPI 4)
+
+
 ![image](https://user-images.githubusercontent.com/127823391/224924351-44653cbc-4f55-423b-bdde-f08c203bfec8.png)
 
 
@@ -26,3 +29,6 @@ It is available to control the robot by the button in the application.
 ![image](https://user-images.githubusercontent.com/127823391/224924870-4b0a5d29-8eee-4ac0-949a-a14f33a734ae.png)
 
 ![image](https://user-images.githubusercontent.com/127823391/224924309-657f0b86-d314-4d00-a362-347ae4093b37.png)
+
+## Controlling the angle of the arm (monitored in the raspberry pi)
+![image](https://user-images.githubusercontent.com/127823391/224925372-53803691-a02f-4bc4-bc43-930bf3be324b.png)
